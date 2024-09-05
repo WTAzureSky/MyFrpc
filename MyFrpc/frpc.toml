@@ -1,0 +1,9 @@
+serverAddr = "103.40.13.87"
+serverPort = 59027
+
+[[proxies]]
+name = "first"
+type = "tcp"
+localIP = "127.0.0.1"
+localPort = 7777
+remotePort = 7777
